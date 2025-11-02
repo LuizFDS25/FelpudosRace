@@ -1986,11 +1986,11 @@ MonoBehaviour:
   yChao: -2
   yAr: -0.7
   intervaloInicial: 3
-  intervaloMinimo: 0.7
+  intervaloMinimo: 1
   reducaoIntervaloPorSegundo: 0.02
   velocidadeInicial: 5
   velocidadeMaxima: 7
-  aumentoVelocidadePorSegundo: 0.2
+  aumentoVelocidadePorSegundo: 0.02
 --- !u!4 &832373941
 Transform:
   m_ObjectHideFlags: 0
@@ -2571,7 +2571,7 @@ MonoBehaviour:
   finalTimeTextBad: {fileID: 1217374068}
   gameWonPanel: {fileID: 1458526167}
   finalTimeTextGood: {fileID: 235466930}
-  duracaoJogo: 90
+  duracaoJogo: 60
 --- !u!4 &972165961
 Transform:
   m_ObjectHideFlags: 0
